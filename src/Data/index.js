@@ -15,7 +15,7 @@ const DATA = [
     },
     {
         id: '3',
-        title: 'Desenvolvimento Full Stack',
+        title: 'Dev Full Stack',
         image:'https://www.brasilcode.com.br/wp-content/uploads/2019/08/Cartoon_Programmer_Writes_Code_Workspace_Concept._Vector.jpg',
         link: 'https://drive.google.com/file/d/1Kfd8Uv_RE8nyF6q8GtaHNsg4hJsvjm8I/view',
         address: 0,
@@ -54,7 +54,7 @@ const DATA = [
       {
         id: '9',
         title: 'Auditor',
-        image:'https://get.pxhere.com/photo/audit-report-verification-magnifier-auditor-financial-concept-business-tax-paper-file-review-consultant-accounting-examination-document-research-checkout-management-check-analysis-statistics-inspection-verify-assessment-auditing-line-font-hand-diagram-angle-brand-circle-graphic-design-product-1452813.jpg',
+        image:'https://images.idgesg.net/images/article/2018/07/audit_binary_compliance_magnifying-glass_investigate-100764899-large.jpg?auto=webp',
         address: 2,
       },
       {
@@ -71,11 +71,16 @@ const DATA = [
       },
       {
        id: '12',
-       title: 'Desenvolvimento emm ecommerce Vtex IO',
+       title: 'Dev em ecommerce Vtex IO',
        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
        link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
        address: 0,
-    },
+    },      {
+      id: '13',
+      title: 'Empreendedor',
+      image:'https://www.franquiawsi.com.br/wp-content/uploads/2016/07/o-que-e-ser-empreendedor-1024x717.jpg',
+      address: 2,
+   },
   ];
 
   export default DATA

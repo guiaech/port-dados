@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+}
+
+.header-background {
+    background-image: url(https://vsthemes.org/uploads/posts/2021-01/1609943397_1572434587_binary-code-4k.jpg);
+    height: 150px;
+    width: 100%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+}
+
+.picture {
+    margin-top: -70px;
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    border: 5px solid #fff;
+}
+
+.name {
+    font-weight: 900;
+    font-size: 2rem;
+    text-align: center;
+    color:rgba(0, 0, 0, 0.842)
+}
+
+.description {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.642);
+    text-align: center;
+}
+
+@media (min-width: 1024px) {
+    .hero-background {
+        height: 220px;
+    }
+}

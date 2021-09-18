@@ -71,7 +71,7 @@ const DATA = [
       },
       {
        id: '12',
-       title: 'AWS Cloud Practitioner Essentials',
+       title: 'Desenvolvimento emm ecommerce Vtex IO',
        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
        link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
        address: 0,

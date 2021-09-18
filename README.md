@@ -10,7 +10,7 @@
 
 O desafio era fazer um código usando React para fazer um portfolio . 
 
-Link para conferir o resultado :[x]
+Link para conferir o resultado :[https://corebiz-d3.netlify.app/]
 
 
 

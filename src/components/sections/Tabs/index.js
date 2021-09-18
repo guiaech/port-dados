@@ -18,9 +18,9 @@ const Tabs = () => {
     return (
         <>
             <nav className="tabs">
-                <button className="tab" onClick={buttonHandler0}>{`📺 Filmes e séries favoritos`}</button>
-                <button className="tab" onClick={buttonHandler1}>{`🎮 Livros Favoritos`}</button>
-                <button className="tab" onClick={buttonHandler2}>{`📚 Trabalhos`}</button>
+                <button className="tab" onClick={buttonHandler0}>{`🎓 Certificados`}</button>
+                <button className="tab" onClick={buttonHandler1}>{`📚 Livros Favoritos`}</button>
+                <button className="tab" onClick={buttonHandler2}>{`👨‍💻 Trabalhos`}</button>
             </nav>
             <Posts number={button}/>
         </>

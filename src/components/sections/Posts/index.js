@@ -9,7 +9,7 @@ const Posts = (props) => {
   return (
     <section className="posts">
       {DATA_FILTERED.map((element) => (
-        <Post  key={element.id} image={element.image} title={element.title} />
+        <Post  key={element.id} image={element.image} title={element.title} link={element.link}/>
       ))}
     </section>
   );

@@ -41,18 +41,7 @@
     background-color: #87878e
   }
   
-  @media (min-width: 1024px) {
-    .post {
-      height: 200px;
-    }
-  }
+
   
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
+
   

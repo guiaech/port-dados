@@ -75,12 +75,20 @@ const DATA = [
        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
        link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
        address: 0,
-    },      {
+    },{
       id: '13',
       title: 'Empreendedor',
       image:'https://www.franquiawsi.com.br/wp-content/uploads/2016/07/o-que-e-ser-empreendedor-1024x717.jpg',
       address: 2,
-   },
+   },{
+    id: '14',
+    title: 'Currículo',
+    image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
+    link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
+    address: 0,
+ },
   ];
 
   export default DATA
+
+  

@@ -69,6 +69,13 @@ const DATA = [
         image:'https://fra.europa.eu/sites/default/files/styles/fra_revamp_highlights_thumb/public/fra_images/vlog22_still_image_new-homepage.jpg?itok=0j4OqGEw',
         address: 2,
       },
+      {
+       id: '12',
+       title: 'AWS Cloud Practitioner Essentials',
+       image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+       link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
+       address: 0,
+    },
   ];
 
   export default DATA

@@ -1,6 +1,6 @@
 .tabs {
     display: flex;
-    background: #e1e1e1;
+    background: rgba(78, 88, 131, 0.233);
     max-width: 100%;
     border-radius: 10px;
     margin: 20px 0;

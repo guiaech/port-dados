@@ -20,7 +20,7 @@
     border-radius: 50%;
     height: 160px;
     width: 160px;
-    border: 7px solid #ffffff;
+    border: 7px solid rgb(2, 20, 100);
 }
 
 .name {

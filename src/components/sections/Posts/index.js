@@ -6,7 +6,6 @@ import DATA from "../../../Data";
 const Posts = (props) => {
     let button = props.number
     let DATA_FILTERED = DATA.filter(element => element.address === button)
-    console.log(DATA_FILTERED)
   return (
     <section className="posts">
       {DATA_FILTERED.map((element) => (

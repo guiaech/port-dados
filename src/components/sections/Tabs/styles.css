@@ -6,6 +6,7 @@
     margin: 20px 0;
 }
 
+
 .tab {
     cursor: pointer;
     background-color: #0d1f41;
@@ -21,4 +22,11 @@
 
 .tab:hover {
     background: #87878e;
+}
+
+
+@media (max-width: 740px) {
+    .tabs {
+        overflow-x: scroll;
+    }
 }

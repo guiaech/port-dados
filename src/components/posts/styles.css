@@ -36,6 +36,10 @@
     max-width: 270px;
     text-align: center;
   }
+
+  .title:hover{
+    background-color: #87878e
+  }
   
   @media (min-width: 1024px) {
     .post {

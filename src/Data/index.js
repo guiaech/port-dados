@@ -53,23 +53,23 @@ const DATA = [
       },
       {
         id: '9',
-        title: 'Site React | API AWS',
+        title: 'Ánalise Churn com Python',
         image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-        link: 'https://github.com/guiaech/final-corebiz',
+        link: 'https://github.com/guiaech/analise_de_dados_Churn',
         address: 2,
       },
       {
         id: '10',
-        title: 'Site Vtex | API AWS',
-        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
-        link: 'https://github.com/guiaech/Vtex_AWS_desafio',
+        title: 'Predizendo vendas baseada em investimentos em Python',
+        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+        link: 'https://github.com/guiaech/projeto_data_science_desafio_hashtag',
         address: 2,
       },
       {
         id: '11',
-        title: 'Ecommerce Vtex | AWS',
-        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
-        link: 'https://youtu.be/LTS8ORpQibw',
+        title: 'K-means em Python',
+        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+        link: 'https://github.com/guiaech/Desafio_k-means_Matrix-confusion',
         address: 2,
       },
       {
@@ -80,9 +80,9 @@ const DATA = [
        address: 0,
     },{
       id: '13',
-      title: 'Ecommerce Wedigi / Vtex IO',
-      image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
-      link:'https://youtu.be/OkxwwVzPMcg',
+      title: 'Análise de sentimentos de tweets em Python',
+      image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+      link:'https://github.com/guiaech/projeto-integrador-IIIB',
       address: 2,
    },{
     id: '14',
@@ -92,9 +92,9 @@ const DATA = [
     address: 0,
  },{
     id: '15',
-    title: 'React | API GitHub',
+    title: 'Perceptron em Python',
     image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-    link: 'https://github.com/guiaech/desafio_REACT',
+    link: 'https://github.com/guiaech/perceptronSimple',
     address: 2,
   }
  

@@ -53,20 +53,23 @@ const DATA = [
       },
       {
         id: '9',
-        title: 'Auditor',
-        image:'https://images.idgesg.net/images/article/2018/07/audit_binary_compliance_magnifying-glass_investigate-100764899-large.jpg?auto=webp',
+        title: 'Site React | API AWS',
+        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+        link: 'https://github.com/guiaech/final-corebiz',
         address: 2,
       },
       {
         id: '10',
-        title: 'Full Stack',
-        image:'http://clubedosgeeks.com.br/wp-content/uploads/2016/04/FullStack-Image.jpg',
+        title: 'Site Vtex | API AWS',
+        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+        link: 'https://github.com/guiaech/Vtex_AWS_desafio',
         address: 2,
       },
       {
         id: '11',
-        title: 'Big Data and AI',
-        image:'https://fra.europa.eu/sites/default/files/styles/fra_revamp_highlights_thumb/public/fra_images/vlog22_still_image_new-homepage.jpg?itok=0j4OqGEw',
+        title: 'Ecommerce Vtex | AWS',
+        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+        link: 'https://youtu.be/LTS8ORpQibw',
         address: 2,
       },
       {
@@ -77,8 +80,9 @@ const DATA = [
        address: 0,
     },{
       id: '13',
-      title: 'Empreendedor',
-      image:'https://www.franquiawsi.com.br/wp-content/uploads/2016/07/o-que-e-ser-empreendedor-1024x717.jpg',
+      title: 'Ecommerce Wedigi / Vtex IO',
+      image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+      link:'https://youtu.be/OkxwwVzPMcg',
       address: 2,
    },{
     id: '14',
@@ -86,7 +90,14 @@ const DATA = [
     image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
     link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
     address: 0,
- },
+ },{
+    id: '15',
+    title: 'React | API GitHub',
+    image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+    link: 'https://github.com/guiaech/Vtex_AWS_desafio',
+    address: 2,
+  }
+ 
   ];
 
   export default DATA

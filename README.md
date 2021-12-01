@@ -10,7 +10,7 @@
 
 Portfolio . 
 
-Link para conferir o resultado :[x]
+Link para conferir o resultado :[https://gui-dados.netlify.app/]
 
 
 

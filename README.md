@@ -1,4 +1,4 @@
-# Desafio 3 Corebiz
+# Portfolio
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -8,9 +8,9 @@
 
 ## O que isto faz?
 
-O desafio era fazer um código usando React para fazer um portfolio . 
+Portfolio . 
 
-Link para conferir o resultado :[https://guilherme-andrade.netlify.app/]
+Link para conferir o resultado :[x]
 
 
 

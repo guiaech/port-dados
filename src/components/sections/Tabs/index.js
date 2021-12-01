@@ -20,7 +20,7 @@ const Tabs = () => {
             <nav className="tabs">
                 <button className="tab" onClick={buttonHandler0}>{`🎓 Certificados`}</button>
                 <button className="tab" onClick={buttonHandler1}>{`📚 Livros Favoritos`}</button>
-                <button className="tab" onClick={buttonHandler2}>{`👨‍💻 Trabalhos`}</button>
+                <button className="tab" onClick={buttonHandler2}>{`👨‍💻 Portfólio`}</button>
             </nav>
             <Posts number={button}/>
         </>

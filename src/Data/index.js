@@ -94,7 +94,7 @@ const DATA = [
     id: '15',
     title: 'React | API GitHub',
     image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-    link: 'https://github.com/guiaech/Vtex_AWS_desafio',
+    link: 'https://github.com/guiaech/desafio_REACT',
     address: 2,
   }
  

@@ -53,7 +53,7 @@ const DATA = [
       },
       {
         id: '9',
-        title: 'Ánalise Churn com Python',
+        title: 'Análise Churn com Python',
         image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
         link: 'https://github.com/guiaech/analise_de_dados_Churn',
         address: 2,

@@ -21,20 +21,20 @@
     border-radius: 50%;
     height: 160px;
     width: 160px;
-    border: 7px solid rgb(2, 20, 100);
+    border: 7px solid rgb(212, 215, 228);
 }
 
 .name {
     font-weight: 900;
     font-size: 2rem;
     text-align: center;
-    color:rgba(0, 0, 0, 0.842)
+    color:rgba(255, 249, 249, 0.993)
 }
 
 .description {
     font-weight: 600;
     font-size: 1.5rem;
-    color: rgba(0, 0, 0, 0.642);
+    color: rgba(250, 249, 249, 0.925);
     text-align: center;
 }
 

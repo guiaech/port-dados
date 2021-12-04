@@ -96,6 +96,12 @@ const DATA = [
     image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
     link: 'https://github.com/guiaech/perceptronSimple',
     address: 2,
+  },{
+    id: '16',
+    title: 'Análise de sentimentos com Machine Learning',
+    image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+    link: 'https://github.com/guiaech/analise_sentimento_twitter',
+    address: 2,
   }
  
   ];

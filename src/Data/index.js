@@ -78,33 +78,28 @@ const DATA = [
        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
        link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
        address: 0,
-    },{
-      id: '13',
-      title: 'Análise de sentimentos de tweets em Python',
-      image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-      link:'https://github.com/guiaech/projeto-integrador-IIIB',
-      address: 2,
-   },{
-    id: '14',
-    title: 'Currículo',
-    image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
-    link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
-    address: 0,
- },{
-    id: '15',
-    title: 'Perceptron em Python',
-    image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-    link: 'https://github.com/guiaech/perceptronSimple',
-    address: 2,
-  },{
-    id: '16',
-    title: 'Análise de sentimentos com Machine Learning',
-    image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
-    link: 'https://github.com/guiaech/analise_sentimento_twitter',
-    address: 2,
-  }
- 
-  ];
+      },
+      {
+       id: '14',
+       title: 'Currículo',
+       image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
+       link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
+       address: 0,
+      },
+      {
+       id: '15',
+       title: 'Perceptron em Python',
+       image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+       link: 'https://github.com/guiaech/perceptronSimple',
+       address: 2,
+     },
+     {
+       id: '13',
+       title: 'Análise de sentimentos com Machine Learning',
+       image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+       link: 'https://github.com/guiaech/analise_sentimento_twitter',
+       address: 2,
+     }];
 
   export default DATA
 

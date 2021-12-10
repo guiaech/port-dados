@@ -60,7 +60,7 @@ const DATA = [
       },
       {
         id: '10',
-        title: 'Predizendo vendas baseada em investimentos em Python',
+        title: 'Predizendo vendas baseada em investimentos com Python',
         image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
         link: 'https://github.com/guiaech/projeto_data_science_desafio_hashtag',
         address: 2,
@@ -98,6 +98,13 @@ const DATA = [
        title: 'Análise de sentimentos com Machine Learning',
        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
        link: 'https://github.com/guiaech/analise_sentimento_twitter',
+       address: 2,
+     },
+     {
+       id: '16',
+       title: 'Redes Neurais, análise de sentimentos',
+       image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+       link: 'https://github.com/guiaech/Rede_Neural_Sentimentos_tweets',
        address: 2,
      }];
 

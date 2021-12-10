@@ -102,7 +102,7 @@ const DATA = [
      },
      {
        id: '16',
-       title: 'Redes Neurais, análise de sentimentos',
+       title: 'Rede Neurail LSTM, análise de sentimentos',
        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
        link: 'https://github.com/guiaech/Rede_Neural_Sentimentos_tweets',
        address: 2,

@@ -106,6 +106,13 @@ const DATA = [
        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
        link: 'https://github.com/guiaech/Rede_Neural_Sentimentos_tweets',
        address: 2,
+     },
+     {
+       id: '17',
+       title: 'Detecção e contagem humana em tempo real',
+       image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+       link: 'https://github.com/guiaech/Deteccao_humana_com_visao_computacional',
+       address: 2,
      }];
 
   export default DATA

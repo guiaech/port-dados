@@ -116,13 +116,13 @@ const DATA = [
      },{
     id: '16',
     title: 'AWS Certified Cloud Practitioner',
-    image:'https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png',
+    image:'https://drive.google.com/file/d/1Udfae1qOmqul7p6WgOUHwUD4Ts1odZlY/viewhttps://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png',
     link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
     address: 0,
  },{
   id: '17',
   title: 'Certified ReactJS Coodesh',
-  image:'https://coodesh.com/_next/image?url=%2Fimages%2Fsvg%2Flogos%2Flogo-vertical.svg&w=128&q=75',
+  image:'https://miro.medium.com/v2/resize:fit:720/format:webp/1*y6C4nSvy2Woe0m7bWEn4BA.png',
   link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
   address: 0,
 },{

@@ -5,7 +5,7 @@ import './styles.css'
 
 
 const Tabs = () => {
-    const [ button, setButton ] = useState(2)
+    const [ button, setButton ] = useState(0)
     const buttonHandler0 = () => {
         setButton(0)
     }

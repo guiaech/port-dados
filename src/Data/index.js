@@ -1,4 +1,41 @@
 const DATA = [
+    ,{
+       id: '16',
+       title: 'AWS Certified Cloud Practitioner',
+       image:'https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png',
+       link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
+       address: 0,
+    },{
+      id: '1',
+      title: 'Engineer Data in Google Cloud',
+      image:'https://cdn.qwiklabs.com/%2BpOT%2BBZY9BS7kfk5iglnlKqCgOdME6g%2BVx3q0cok%2FgE%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3321954',
+      address: 0,
+    },{
+      id: '2',
+      title: 'Perform Foundational Data, ML, and AI Tasks in Google Cloud',
+      image:'https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3313089',
+      address: 0,
+    },{
+      id: '3',
+      title: 'Create and Manage Cloud Resources',
+      image:'https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3188593',
+      address: 0,
+    },{
+      id: '17',
+      title: 'Certified ReactJS Coodesh',
+      image:'https://miro.medium.com/v2/resize:fit:720/format:webp/1*y6C4nSvy2Woe0m7bWEn4BA.png',
+      link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
+      address: 0,
+    },{
+      id: '18',
+      title: 'Scrum: Agilidade em seu projeto',
+      image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
+      link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
+      address: 0,
+    },
     {
       id: '21',
       title: 'Google Analystics Individual',
@@ -113,43 +150,7 @@ const DATA = [
        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
        link: 'https://github.com/guiaech/Deteccao_humana_com_visao_computacional',
        address: 2,
-     },{
-       id: '16',
-       title: 'AWS Certified Cloud Practitioner',
-       image:'https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png',
-       link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
-       address: 0,
-    },{
-      id: '17',
-      title: 'Certified ReactJS Coodesh',
-      image:'https://miro.medium.com/v2/resize:fit:720/format:webp/1*y6C4nSvy2Woe0m7bWEn4BA.png',
-      link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
-      address: 0,
-    },{
-      id: '18',
-      title: 'Scrum: Agilidade em seu projeto',
-      image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
-      link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
-      address: 0,
-    },{
-      id: '1',
-      title: 'Engineer Data in Google Cloud',
-      image:'https://cdn.qwiklabs.com/%2BpOT%2BBZY9BS7kfk5iglnlKqCgOdME6g%2BVx3q0cok%2FgE%3D',
-      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3321954',
-      address: 0,
-    },{
-      id: '2',
-      title: 'Perform Foundational Data, ML, and AI Tasks in Google Cloud',
-      image:'https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D',
-      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3313089',
-      address: 0,
-    },{
-      id: '3',
-      title: 'Create and Manage Cloud Resources',
-      image:'https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D',
-      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3188593',
-      address: 0,
-    }];
+     }];
 
   export default DATA
 

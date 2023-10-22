@@ -7,10 +7,10 @@ import './styles.css'
 const Tabs = () => {
     const [ button, setButton ] = useState(2)
     const buttonHandler0 = () => {
-        setButton(1)
+        setButton(0)
     }
     const buttonHandler1 = () => {
-        setButton(0)
+        setButton(1)
     }
     const buttonHandler2 = () => {
         setButton(2)
@@ -18,8 +18,8 @@ const Tabs = () => {
     return (
         <>
             <nav className="tabs">
-                <button className="tab" onClick={buttonHandler2}>{`👨‍💻 Portfólio`}</button>
                 <button className="tab" onClick={buttonHandler0}>{`🎓 Certificados`}</button>
+                <button className="tab" onClick={buttonHandler2}>{`👨‍💻 Portfólio`}</button>
                 <button className="tab" onClick={buttonHandler1}>{`📚 Livros Favoritos`}</button>
             </nav>
             <Posts number={button}/>

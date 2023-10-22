@@ -83,7 +83,7 @@ const DATA = [
        id: '14',
        title: 'Currículo',
        image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
-       link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
+       link: 'https://www.canva.com/design/DAFpjAM0pK0/7skOJAlQaFFP37hBkU4s7w/edit?utm_content=DAFpjAM0pK0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
        address: 0,
       },
       {

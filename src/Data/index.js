@@ -114,24 +114,24 @@ const DATA = [
        link: 'https://github.com/guiaech/Deteccao_humana_com_visao_computacional',
        address: 2,
      },{
-    id: '16',
-    title: 'AWS Certified Cloud Practitioner',
-    image:'https://drive.google.com/file/d/1Udfae1qOmqul7p6WgOUHwUD4Ts1odZlY/viewhttps://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png',
-    link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
-    address: 0,
- },{
-  id: '17',
-  title: 'Certified ReactJS Coodesh',
-  image:'https://miro.medium.com/v2/resize:fit:720/format:webp/1*y6C4nSvy2Woe0m7bWEn4BA.png',
-  link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
-  address: 0,
-},{
-  id: '18',
-  title: 'Scrum: Agilidade em seu projeto',
-  image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
-  link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
-  address: 0,
-}];
+       id: '16',
+       title: 'AWS Certified Cloud Practitioner',
+       image:'https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png',
+       link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
+       address: 0,
+    },{
+      id: '17',
+      title: 'Certified ReactJS Coodesh',
+      image:'https://miro.medium.com/v2/resize:fit:720/format:webp/1*y6C4nSvy2Woe0m7bWEn4BA.png',
+      link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
+      address: 0,
+    },{
+      id: '18',
+      title: 'Scrum: Agilidade em seu projeto',
+      image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
+      link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
+      address: 0,
+    }];
 
   export default DATA
 

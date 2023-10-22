@@ -7,10 +7,10 @@ import './styles.css'
 const Tabs = () => {
     const [ button, setButton ] = useState(2)
     const buttonHandler0 = () => {
-        setButton(0)
+        setButton(1)
     }
     const buttonHandler1 = () => {
-        setButton(1)
+        setButton(0)
     }
     const buttonHandler2 = () => {
         setButton(2)

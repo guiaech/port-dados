@@ -131,6 +131,24 @@ const DATA = [
       image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
       link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
       address: 0,
+    },{
+      id: '19',
+      title: 'Engineer Data in Google Cloud',
+      image:'https://cdn.qwiklabs.com/%2BpOT%2BBZY9BS7kfk5iglnlKqCgOdME6g%2BVx3q0cok%2FgE%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3321954',
+      address: 0,
+    },{
+      id: '20',
+      title: 'Perform Foundational Data, ML, and AI Tasks in Google Cloud',
+      image:'https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3313089',
+      address: 0,
+    },{
+      id: '21',
+      title: 'Create and Manage Cloud Resources',
+      image:'https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D',
+      link: 'https://partner.cloudskillsboost.google/public_profiles/75a72f2b-a2ec-47b0-b5f0-441adc737a6c/badges/3188593',
+      address: 0,
     }];
 
   export default DATA

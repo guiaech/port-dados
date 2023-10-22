@@ -150,7 +150,41 @@ const DATA = [
        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
        link: 'https://github.com/guiaech/Deteccao_humana_com_visao_computacional',
        address: 2,
-     }];
+     },
+      {
+        id: '9',
+        title: 'Site React | API AWS',
+        image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
+        link: 'https://github.com/guiaech/final-corebiz',
+        address: 2,
+      },
+      {
+        id: '10',
+        title: 'Site Vtex | API AWS',
+        image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
+        link: 'https://github.com/guiaech/Vtex_AWS_desafio',
+        address: 2,
+      },
+      {
+        id: '11',
+        title: 'Ecommerce Vtex | AWS',
+        image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
+        link: 'https://youtu.be/LTS8ORpQibw',
+        address: 2,
+      },
+      {
+       id: '12',
+       title: 'Dev em ecommerce Vtex IO',
+       image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
+       link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
+       address: 0,
+    },{
+      id: '13',
+      title: 'Ecommerce Wedigi / Vtex IO',
+      image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
+      link:'https://youtu.be/OkxwwVzPMcg',
+      address: 2,
+   }];
 
   export default DATA
 
